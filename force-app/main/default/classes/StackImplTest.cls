@@ -43,7 +43,7 @@ public class StackImplTest {
         myStack.push(10);
         myStack.push(20);
         myStack.push(30);
-        System.assertEquals(20, myStack.pop());
+        System.assertEquals(30, myStack.pop());
         
     }
     
