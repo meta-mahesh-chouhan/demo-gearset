@@ -1,1 +1,1 @@
-# gearset-demo
+# demo-gearset
